@@ -1,0 +1,96 @@
+Bar Name,Item,Days Simulated,Stockouts,Stockout Rate,Final Inventory,Par Level
+Anderson's Bar,Beer - Budweiser,5,0,0.0,0.0,0.0
+Anderson's Bar,Beer - Coors,7,7,1.0,0.0,0.0
+Anderson's Bar,Beer - Heineken,9,5,0.5555555555555556,0.0,0.0
+Anderson's Bar,Beer - Miller,3,2,0.6666666666666666,0.0,0.0
+Anderson's Bar,Rum - Bacardi,8,8,1.0,0.0,0.0
+Anderson's Bar,Rum - Captain Morgan,6,6,1.0,0.0,0.0
+Anderson's Bar,Rum - Malibu,1,1,1.0,0.0,0.0
+Anderson's Bar,Vodka - Absolut,6,5,0.8333333333333334,0.0,0.0
+Anderson's Bar,Vodka - Grey Goose,5,4,0.8,0.0,0.0
+Anderson's Bar,Vodka - Smirnoff,5,5,1.0,0.0,0.0
+Anderson's Bar,Whiskey - Jack Daniels,7,6,0.8571428571428571,0.0,0.0
+Anderson's Bar,Whiskey - Jameson,5,5,1.0,0.0,0.0
+Anderson's Bar,Whiskey - Jim Beam,9,9,1.0,0.0,0.0
+Anderson's Bar,Wine - Barefoot,6,6,1.0,0.0,0.0
+Anderson's Bar,Wine - Sutter Home,2,2,1.0,0.0,0.0
+Anderson's Bar,Wine - Yellow Tail,7,7,1.0,0.0,0.0
+Brown's Bar,Beer - Budweiser,3,2,0.6666666666666666,0.0,0.0
+Brown's Bar,Beer - Coors,4,3,0.75,0.0,0.0
+Brown's Bar,Beer - Heineken,3,3,1.0,0.0,0.0
+Brown's Bar,Beer - Miller,3,2,0.6666666666666666,0.0,0.0
+Brown's Bar,Rum - Bacardi,10,9,0.9,0.0,0.0
+Brown's Bar,Rum - Captain Morgan,4,4,1.0,0.0,0.0
+Brown's Bar,Rum - Malibu,10,10,1.0,0.0,0.0
+Brown's Bar,Vodka - Absolut,5,5,1.0,0.0,0.0
+Brown's Bar,Vodka - Grey Goose,6,4,0.6666666666666666,0.0,0.0
+Brown's Bar,Vodka - Smirnoff,6,5,0.8333333333333334,0.0,0.0
+Brown's Bar,Whiskey - Jack Daniels,8,2,0.25,0.0,0.0
+Brown's Bar,Whiskey - Jameson,5,5,1.0,0.0,0.0
+Brown's Bar,Whiskey - Jim Beam,6,5,0.8333333333333334,0.0,0.0
+Brown's Bar,Wine - Barefoot,9,8,0.8888888888888888,0.0,0.0
+Brown's Bar,Wine - Sutter Home,1,1,1.0,0.0,0.0
+Brown's Bar,Wine - Yellow Tail,6,5,0.8333333333333334,0.0,0.0
+Johnson's Bar,Beer - Budweiser,3,3,1.0,0.0,0.0
+Johnson's Bar,Beer - Coors,5,5,1.0,0.0,0.0
+Johnson's Bar,Beer - Heineken,6,6,1.0,0.0,0.0
+Johnson's Bar,Beer - Miller,5,3,0.6,0.0,0.0
+Johnson's Bar,Rum - Bacardi,5,5,1.0,0.0,0.0
+Johnson's Bar,Rum - Captain Morgan,7,7,1.0,0.0,0.0
+Johnson's Bar,Rum - Malibu,9,8,0.8888888888888888,0.0,0.0
+Johnson's Bar,Vodka - Absolut,5,5,1.0,0.0,0.0
+Johnson's Bar,Vodka - Grey Goose,8,7,0.875,0.0,0.0
+Johnson's Bar,Vodka - Smirnoff,3,3,1.0,0.0,0.0
+Johnson's Bar,Whiskey - Jack Daniels,7,6,0.8571428571428571,0.0,0.0
+Johnson's Bar,Whiskey - Jameson,4,4,1.0,0.0,0.0
+Johnson's Bar,Whiskey - Jim Beam,4,4,1.0,0.0,0.0
+Johnson's Bar,Wine - Barefoot,3,3,1.0,0.0,0.0
+Johnson's Bar,Wine - Sutter Home,6,6,1.0,0.0,0.0
+Johnson's Bar,Wine - Yellow Tail,6,6,1.0,0.0,0.0
+Smith's Bar,Beer - Budweiser,4,4,1.0,0.0,0.0
+Smith's Bar,Beer - Coors,4,4,1.0,0.0,0.0
+Smith's Bar,Beer - Heineken,4,4,1.0,0.0,0.0
+Smith's Bar,Beer - Miller,6,5,0.8333333333333334,0.0,0.0
+Smith's Bar,Rum - Bacardi,9,8,0.8888888888888888,0.0,0.0
+Smith's Bar,Rum - Captain Morgan,4,3,0.75,0.0,0.0
+Smith's Bar,Rum - Malibu,10,7,0.7,0.0,0.0
+Smith's Bar,Vodka - Absolut,5,5,1.0,0.0,0.0
+Smith's Bar,Vodka - Grey Goose,10,10,1.0,0.0,0.0
+Smith's Bar,Vodka - Smirnoff,6,6,1.0,0.0,0.0
+Smith's Bar,Whiskey - Jack Daniels,3,3,1.0,0.0,0.0
+Smith's Bar,Whiskey - Jameson,8,7,0.875,0.0,0.0
+Smith's Bar,Whiskey - Jim Beam,2,2,1.0,0.0,0.0
+Smith's Bar,Wine - Barefoot,4,4,1.0,0.0,0.0
+Smith's Bar,Wine - Sutter Home,6,6,1.0,0.0,0.0
+Smith's Bar,Wine - Yellow Tail,4,3,0.75,0.0,0.0
+Taylor's Bar,Beer - Budweiser,3,3,1.0,0.0,0.0
+Taylor's Bar,Beer - Coors,6,6,1.0,0.0,0.0
+Taylor's Bar,Beer - Miller,6,0,0.0,0.0,0.0
+Taylor's Bar,Rum - Bacardi,5,2,0.4,0.0,0.0
+Taylor's Bar,Rum - Captain Morgan,4,4,1.0,0.0,0.0
+Taylor's Bar,Rum - Malibu,9,8,0.8888888888888888,0.0,0.0
+Taylor's Bar,Vodka - Absolut,4,4,1.0,0.0,0.0
+Taylor's Bar,Vodka - Grey Goose,5,5,1.0,0.0,0.0
+Taylor's Bar,Vodka - Smirnoff,10,10,1.0,0.0,0.0
+Taylor's Bar,Whiskey - Jack Daniels,5,5,1.0,0.0,0.0
+Taylor's Bar,Whiskey - Jameson,7,6,0.8571428571428571,0.0,0.0
+Taylor's Bar,Whiskey - Jim Beam,10,10,1.0,0.0,0.0
+Taylor's Bar,Wine - Barefoot,5,5,1.0,0.0,0.0
+Taylor's Bar,Wine - Sutter Home,9,5,0.5555555555555556,0.0,0.0
+Taylor's Bar,Wine - Yellow Tail,5,4,0.8,0.0,0.0
+Thomas's Bar,Beer - Budweiser,8,7,0.875,0.0,0.0
+Thomas's Bar,Beer - Coors,1,1,1.0,0.0,0.0
+Thomas's Bar,Beer - Heineken,2,2,1.0,0.0,0.0
+Thomas's Bar,Beer - Miller,2,2,1.0,0.0,0.0
+Thomas's Bar,Rum - Bacardi,4,4,1.0,0.0,0.0
+Thomas's Bar,Rum - Captain Morgan,6,6,1.0,0.0,0.0
+Thomas's Bar,Rum - Malibu,3,3,1.0,0.0,0.0
+Thomas's Bar,Vodka - Absolut,4,4,1.0,0.0,0.0
+Thomas's Bar,Vodka - Grey Goose,10,9,0.9,0.0,0.0
+Thomas's Bar,Vodka - Smirnoff,6,6,1.0,0.0,0.0
+Thomas's Bar,Whiskey - Jack Daniels,6,6,1.0,0.0,0.0
+Thomas's Bar,Whiskey - Jameson,5,2,0.4,0.0,0.0
+Thomas's Bar,Whiskey - Jim Beam,7,7,1.0,0.0,0.0
+Thomas's Bar,Wine - Barefoot,7,6,0.8571428571428571,0.0,0.0
+Thomas's Bar,Wine - Sutter Home,7,3,0.42857142857142855,0.0,0.0
+Thomas's Bar,Wine - Yellow Tail,5,5,1.0,0.0,0.0
